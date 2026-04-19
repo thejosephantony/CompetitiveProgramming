@@ -1,4 +1,4 @@
-CompetitiveProgramming
+🏆 ## CompetitiveProgramming
 
 Repositório dedicado ao estudo e à prática de Programação Competitiva, reunindo soluções de problemas computacionais, implementações de algoritmos clássicos e exercícios voltados ao desenvolvimento do raciocínio lógico, da capacidade analítica e da escrita de código eficiente.
 
