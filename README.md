@@ -1,157 +1,285 @@
-🏆 CompetitiveProgramming
+# 🏆 CompetitiveProgramming
 
-Repositório dedicado ao estudo e à prática de Programação Competitiva, reunindo soluções de problemas computacionais, implementações de algoritmos clássicos e exercícios voltados ao desenvolvimento do raciocínio lógico, da capacidade analítica e da escrita de código eficiente.
+Repositório dedicado ao estudo aprofundado e à prática contínua de **Programação Competitiva**, reunindo soluções de problemas computacionais, implementações de algoritmos clássicos, estruturas de dados avançadas e exercícios voltados ao desenvolvimento do raciocínio lógico, capacidade analítica e escrita de código eficiente.
 
 ---
 
-🔹 Fundamentação
+# 📖 Introdução
 
-A Programação Competitiva é uma área da Ciência da Computação centrada na resolução de problemas algorítmicos sob restrições de tempo e memória. Seu propósito não é apenas encontrar respostas funcionais, mas construir soluções corretas, eficientes e fundamentadas em princípios matemáticos e computacionais.
+A **Programação Competitiva** consiste na resolução de problemas algorítmicos sob restrições rígidas de:
 
-Essa prática envolve conhecimentos como:
+- tempo de execução
+- uso de memória
+- corretude formal
+- robustez da implementação
+
+O objetivo não é apenas produzir programas funcionais, mas construir soluções:
+
+- corretas
+- eficientes
+- otimizadas
+- matematicamente fundamentadas
+- implementáveis em curto prazo
+
+Trata-se de uma área altamente valorizada tanto no meio acadêmico quanto no mercado de tecnologia, pois exige domínio simultâneo de teoria computacional e implementação prática.
+
+---
+
+# 🧠 Competências Desenvolvidas
+
+A prática constante contribui diretamente para o desenvolvimento de:
+
+## 🔹 Competências Técnicas
 
 - análise de complexidade assintótica
-- estruturas de dados
-- paradigmas de algoritmos
-- matemática discreta
-- teoria dos grafos
-- otimização computacional
-- modelagem formal de problemas
+- estruturas de dados eficientes
+- modelagem matemática de problemas
+- domínio de algoritmos clássicos
+- otimização de código
+- depuração rápida
+- leitura e interpretação de enunciados técnicos
 
-Além do aspecto técnico, contribui para o desenvolvimento da abstração, disciplina intelectual e tomada de decisão sob pressão.
+## 🔹 Competências Cognitivas
+
+- raciocínio lógico
+- abstração
+- decomposição de problemas
+- criatividade algorítmica
+- tomada de decisão sob pressão
+- persistência intelectual
 
 ---
 
-🎯 Objetivos do Repositório
+# 🎯 Objetivos do Repositório
+
+Este repositório possui como finalidades:
 
 - Registrar soluções desenvolvidas ao longo dos estudos
-- Consolidar conhecimentos teóricos e práticos
+- Consolidar teoria e prática em algoritmos
 - Servir como material de revisão futura
-- Acompanhar evolução técnica contínua
-- Auxiliar na preparação para competições e entrevistas
-- Fortalecer domínio da linguagem C++
+- Organizar implementações reutilizáveis
+- Documentar evolução técnica contínua
+- Auxiliar preparação para competições
+- Fortalecer domínio de **C++**
+- Construir base sólida para entrevistas técnicas
+- Explorar técnicas modernas de resolução de problemas
 
 ---
 
-💻 Linguagem Utilizada
+# 💻 Linguagem Principal
 
-- C++ — linguagem amplamente adotada em programação competitiva devido ao alto desempenho e à utilização da STL.
+## C++
+
+Linguagem amplamente utilizada em Programação Competitiva devido a:
+
+- alto desempenho
+- baixo overhead
+- excelente gerenciamento de memória
+- suporte à programação genérica
+- rica biblioteca padrão (**STL**)
+- ampla compatibilidade com juízes online
+
+## Recursos frequentemente utilizados
+
+- `vector`
+- `pair`
+- `set`
+- `map`
+- `unordered_map`
+- `priority_queue`
+- `deque`
+- `stack`
+- `queue`
+- `algorithm`
+- `bitset`
 
 ---
 
-🧠 Conteúdos Frequentes
+# 📚 Conteúdos Estudados
 
-📦 Estruturas de Dados
+# 📦 Estruturas de Dados
 
-- Vetores e Matrizes
-- Pilhas e Filas
-- Sets e Maps
-- Heaps
-- Árvores
-- Fenwick Tree
+## Básicas
+
+- Arrays
+- Matrizes
+- Pilhas
+- Filas
+- Deques
+- Listas Ligadas
+
+## Intermediárias
+
+- Sets
+- Maps
+- Hash Tables
+- Priority Queue
+- Heap
+
+## Avançadas
+
 - Segment Tree
-- Union-Find
+- Fenwick Tree (BIT)
+- Trie
+- Sparse Table
+- Disjoint Set Union (DSU)
+- Ordered Set
+- Binary Indexed Structures
 
-⚙️ Algoritmos Fundamentais
+---
+
+# ⚙️ Algoritmos Fundamentais
 
 - Ordenação
+- Busca Linear
 - Busca Binária
 - Prefix Sum
+- Difference Array
 - Sliding Window
 - Two Pointers
-
-🧩 Paradigmas Algorítmicos
-
-- Divisão e Conquista
-- Programação Dinâmica
-- Algoritmos Gulosos
-- Backtracking
-- Recursão
-
-🌐 Grafos
-
-- BFS e DFS
-- Caminho Mínimo
-- MST
-- Ordenação Topológica
-- Fluxo em Redes
-
-🔢 Matemática Computacional
-
-- Aritmética Modular
-- MDC e MMC
-- Crivo de Eratóstenes
-- Exponenciação Rápida
-- Combinatória
-
-🔤 Strings
-
-- Hashing
-- KMP
-- Trie
-- Z-Function
-
-🚀 Técnicas Avançadas
-
-- Bitmask
-- Meet in the Middle
-- Sparse Table
-- Binary Lifting
+- Sweep Line
+- Coordinate Compression
 
 ---
 
-🌍 Plataformas de Prática
+# 🧩 Paradigmas Algorítmicos
 
-🌎 Principais Plataformas
+- Força Bruta
+- Backtracking
+- Recursão
+- Divisão e Conquista
+- Algoritmos Gulosos
+- Programação Dinâmica
+- Memoization
+- Bitmask DP
+- Meet in the Middle
+
+---
+
+# 🌐 Grafos
+
+## Representações
+
+- Lista de Adjacência
+- Matriz de Adjacência
+
+## Busca
+
+- BFS
+- DFS
+- Flood Fill
+
+## Caminhos
+
+- Dijkstra
+- Bellman-Ford
+- Floyd-Warshall
+- 0-1 BFS
+
+## Estruturas
+
+- Minimum Spanning Tree
+- Kruskal
+- Prim
+- Topological Sort
+- Strongly Connected Components
+
+## Avançados
+
+- LCA
+- Binary Lifting
+- Euler Tour
+- Bridges and Articulation Points
+- Max Flow
+- Min Cost Flow
+
+---
+
+# 🔢 Matemática Computacional
+
+- MDC / MMC
+- Números Primos
+- Crivo de Eratóstenes
+- Exponenciação Rápida
+- Modular Exponentiation
+- Inverso Modular
+- Combinatória
+- Fatorial
+- Permutações
+- Binômio de Newton
+- Teoria dos Números
+- Probabilidade Básica
+- Matrizes
+
+---
+
+# 🔤 Strings
+
+- Hashing
+- Rolling Hash
+- KMP
+- Prefix Function
+- Z-Function
+- Trie
+- Suffix Array
+- Suffix Automaton
+
+---
+
+# 🚀 Técnicas Avançadas
+
+- Bitmask
+- Sparse Table
+- Binary Lifting
+- Mo's Algorithm
+- Convex Hull Trick
+- DP Optimization
+- Heavy-Light Decomposition
+- Persistent Structures
+
+---
+
+# 🌍 Plataformas de Prática
+
+## Online Judges
 
 - Neps Academy
 - Beecrowd
-- E-olymp
-- Project Euler
 - Codeforces
 - AtCoder
 - CSES
 - SPOJ
 - LeetCode
+- UVa
+- Kattis
+- HackerRank
+- Project Euler
 
-🏅 Competições
+## Competições
 
 - OBI
 - ICPC
+- IOI
 - USACO
-- IOI Training
 - Meta Hacker Cup
+- Google Code Jam (histórico)
+- Kick Start (histórico)
 
 ---
 
-📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório
 
-Os arquivos encontram-se reunidos conforme o progresso dos estudos, contemplando problemas de diferentes níveis de dificuldade e variados temas algorítmicos.
+Os arquivos encontram-se organizados conforme o progresso dos estudos, contemplando:
+
+- problemas de diferentes níveis de dificuldade
+- variados temas algorítmicos
+- implementações reutilizáveis
+- soluções comentadas (quando necessário)
 
 ---
 
-🚀 Compilação
+## 🚀 Compilação
 
+```bash
 g++ -O2 -std=c++17 arquivo.cpp -o programa
 ./programa
-
----
-
-📈 Relevância Acadêmica e Profissional
-
-- Fortalecimento do raciocínio lógico
-- Capacidade analítica avançada
-- Escrita de código eficiente
-- Preparação para entrevistas técnicas
-- Base sólida para áreas avançadas da computação
-
----
-
-👨‍💻 Autor
-
-Joseph Antony
-GitHub: https://github.com/thejosephantony
-
----
-
-⭐ Repositório voltado ao aperfeiçoamento técnico por meio do estudo sistemático de algoritmos e resolução de problemas.
