@@ -278,8 +278,67 @@ Os arquivos encontram-se organizados conforme o progresso dos estudos, contempla
 
 ---
 
+## 🛠️ Templates Frequentes
+O repositório também pode conter modelos reutilizáveis para:
+
+- BFS / DFS
+- Dijkstra
+- DSU
+- Segment Tree
+- Fenwick Tree
+- Fast IO
+- Modular Arithmetic
+- Binary Search
+- Topological Sort
+
+--- 
+
+## 📈 Importância Acadêmica
+
+A Programação Competitiva fortalece bases essenciais para diversas áreas da Ciência da Computação, tais como:
+
+- Algoritmos e Estruturas de Dados  
+- Inteligência Artificial  
+- Segurança Computacional  
+- Engenharia de Software  
+- Sistemas Operacionais  
+- Computação Gráfica  
+- Pesquisa Operacional
+
+---
+
+## 💼 Importância Profissional
+
+Também possui relevância em processos seletivos de empresas de tecnologia, auxiliando em:
+
+- entrevistas técnicas  
+- coding interviews  
+- resolução rápida de problemas  
+- escrita de código limpo  
+- otimização de performance  
+- pensamento sistêmico  
+
+---
+
+## 📊 Filosofia de Estudo
+
+Este repositório segue a ideia de evolução contínua baseada em:
+
+- constância  
+- revisão espaçada  
+- resolução progressiva  
+- comparação entre soluções  
+- análise de complexidade  
+- refatoração de código  
+
+---
+
 ## 🚀 Compilação
 
 ```bash
 g++ -O2 -std=c++17 arquivo.cpp -o programa
 ./programa
+
+## 👨‍💻 Autor
+
+**Joseph Antony**
