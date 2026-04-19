@@ -332,13 +332,12 @@ Este repositório segue a ideia de evolução contínua baseada em:
 - refatoração de código  
 
 ---
-
 ## 🚀 Compilação
 
-```bash
 g++ -O2 -std=c++17 arquivo.cpp -o programa
 ./programa
 
+---
 ## 👨‍💻 Autor
 
 **Joseph Antony**
