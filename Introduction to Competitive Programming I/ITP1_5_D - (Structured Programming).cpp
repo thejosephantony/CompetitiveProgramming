@@ -47,7 +47,27 @@ using std::cin;
 using std::endl;
 
 int main(){
+    int n;
+    cin >> n;
 
+    if (n >= 3 and n <= 10000){
+    for (int i = 1; i <= n; i++){
+        int x = i;
+        if (x % 3 == 0){
+            cout << " " << i;
+            continue;
+        }
+        while (x){
+            if (x % 10 == 3){
+                cout << " " << i;
+                break;
+            }
+            x /= 10;
+        }
+    }
+  }
+  cout << endl;
+  return 0;
 
 }
 
